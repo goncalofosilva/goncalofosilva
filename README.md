@@ -1,3 +1,3 @@
 # Hi 👋, im Gonçalo Silva
 
-🚀**Junior Software Engineer**
+🚀**Software Engineer**
